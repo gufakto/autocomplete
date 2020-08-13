@@ -30,7 +30,7 @@ you can add url or array data into searchable-data attribute like example
 />
 ```
 
-![Example of display gufakto autocomplete](https://github.com/gufakto/autocomplete/tree/master/assets/img/example.png)
+![Example of display gufakto autocomplete](https://github.com/gufakto/autocomplete/blob/master/assets/img/example.png)
 
 ## Author
 
